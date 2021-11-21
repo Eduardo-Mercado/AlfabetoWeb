@@ -1,0 +1,34 @@
+﻿@{
+	ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center" id="contenedorIndex">
+	<h1 class="display-4">Welcome</h1>
+
+	<form>
+		<fieldset>
+			<legend>Palabra</legend>
+			<label>Digite una palabra :</label>
+			<input type="text" id="txtPalabra" />
+			<button type="button" id="btnCalcular">Calcular</button>
+		</fieldset>
+		<fieldset>
+			<legend>Resultado</legend>
+			<label>Valor de la palabra = <span id="palabra" style="font-weight:700"></span>  es  = <span id="valorPalabra"></span> </label>
+		</fieldset>
+	</form>
+</div>
+
+
+@section Scripts {
+	<script src="~/js/alfabeto.js"></script>
+	<script>
+		$(function () {
+
+			var alfabeto_app = new alfabetoApp({ contenedor: $("#contenedorIndex") });
+			alfabeto_app.init();
+
+		})
+
+	</script>
+}

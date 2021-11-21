@@ -1,0 +1,12 @@
+D:\proyectos\personal\AlfabetoWeb\Alfabeto\logica\bin\Debug\net5.0\logica.deps.json
+D:\proyectos\personal\AlfabetoWeb\Alfabeto\logica\bin\Debug\net5.0\logica.dll
+D:\proyectos\personal\AlfabetoWeb\Alfabeto\logica\bin\Debug\net5.0\ref\logica.dll
+D:\proyectos\personal\AlfabetoWeb\Alfabeto\logica\bin\Debug\net5.0\logica.pdb
+D:\proyectos\personal\AlfabetoWeb\Alfabeto\logica\obj\Debug\net5.0\logica.csproj.AssemblyReference.cache
+D:\proyectos\personal\AlfabetoWeb\Alfabeto\logica\obj\Debug\net5.0\logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\personal\AlfabetoWeb\Alfabeto\logica\obj\Debug\net5.0\logica.AssemblyInfoInputs.cache
+D:\proyectos\personal\AlfabetoWeb\Alfabeto\logica\obj\Debug\net5.0\logica.AssemblyInfo.cs
+D:\proyectos\personal\AlfabetoWeb\Alfabeto\logica\obj\Debug\net5.0\logica.csproj.CoreCompileInputs.cache
+D:\proyectos\personal\AlfabetoWeb\Alfabeto\logica\obj\Debug\net5.0\logica.dll
+D:\proyectos\personal\AlfabetoWeb\Alfabeto\logica\obj\Debug\net5.0\ref\logica.dll
+D:\proyectos\personal\AlfabetoWeb\Alfabeto\logica\obj\Debug\net5.0\logica.pdb
